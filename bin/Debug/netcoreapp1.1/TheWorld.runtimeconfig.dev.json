@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Apocalypse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Apocalypse\\.nuget\\packages"
+    ]
+  }
+}
